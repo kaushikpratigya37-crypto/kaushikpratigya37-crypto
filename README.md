@@ -1,24 +1,10 @@
-<div align="center">
 
-# 👋 Hi, I'm Pratigya Kaushik
-
-### Developer • IoT Explorer • Creative Thinker
-
-*Building ideas where code, hardware, and creativity meet.*
-
-</div>
-
----
 
 ## ✍️ About Me
 
-I move between three disciplines most people treat as separate — **writing, development, and IoT** — and let each sharpen the other.
+I move between three disciplines most people treat as separate — **writing**, **development**, and **IoT** — and let each sharpen the other. Writing taught me structure, clarity, and how to hold attention. Development taught me logic, precision, and how to make an idea actually function. IoT taught me how software and hardware can work together to turn ideas into real-world solutions.
 
-Writing taught me **structure and clarity**. Development taught me **logic and precision**. IoT taught me how **software and hardware can work together** to turn ideas into real-world solutions.
-
-> *Structure in sentences. Logic in syntax. Circuits in between.*
-
----
+This profile is where the developer and builder side lives: real projects, connected systems, and ideas built line by line and circuit by circuit.
 
 ## 🛠️ Featured Projects
 
