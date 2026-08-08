@@ -1,9 +1,11 @@
-# Pratigya Kaushik 👋
+# Hey, I'm Pratigya 👋
 
-**Developer | IoT Explorer | Creative Thinker**
+### Developer • IoT Explorer • Problem Solver
 
-> *Structure in sentences. Logic in syntax. Circuits in between.*
+I move between three disciplines most people treat as separate — **writing**, **development**, and **IoT** — and let each sharpen the other.
 
-I explore the space where **code, hardware, and ideas** meet — building projects that turn concepts into something functional.
+Writing taught me structure and clarity. Development taught me logic and precision. IoT taught me how software and hardware can work together to turn ideas into real-world solutions.
+
+> **Build. Connect. Learn. Repeat.**
 
 ---
