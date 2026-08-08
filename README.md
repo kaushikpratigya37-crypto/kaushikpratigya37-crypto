@@ -12,9 +12,9 @@
 
 ## ✍️ About Me
 
-I move between two disciplines most people treat as separate — **writing** and **development** — and let each sharpen the other. Writing taught me structure, clarity, and how to hold attention. Development taught me logic, precision, and how to make an idea actually *function*.
+I move between three disciplines most people treat as separate — **writing**, **development**, and **IoT** — and let each sharpen the other. Writing taught me structure, clarity, and how to hold attention. Development taught me logic, precision, and how to make an idea actually function. IoT taught me how software and hardware can work together to turn ideas into real-world solutions.
 
-This profile is where the developer side lives: real projects, built line by line.
+This profile is where the developer and builder side lives: real projects, connected systems, and ideas built line by line and circuit by circuit.
 
 <br>
 
