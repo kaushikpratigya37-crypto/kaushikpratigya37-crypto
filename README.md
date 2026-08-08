@@ -4,11 +4,11 @@
 
 ### 💻 Developer • 🤖 IoT Explorer • ✍️ Writer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2196F3&center=true&vCenter=true&width=700&lines=Building+with+Code+%26+Curiosity;Exploring+IoT+%26+Embedded+Systems;Learning+Data+%26+Technology;Turning+Ideas+into+Working+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+with+Code+%26+Curiosity;Exploring+IoT+%26+Embedded+Systems;Learning+Data+%26+Technology;Turning+Ideas+into+Working+Projects" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaushikpratigya37-crypto&color=2196F3&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=kaushikpratigya37-crypto&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -63,17 +63,9 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaushikpratigya37-crypto&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=444444&bg_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaushikpratigya37-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpratigya37-crypto&layout=compact&hide_border=true&title_color=2196F3&text_color=444444&bg_color=ffffff" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaushikpratigya37-crypto&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpratigya37-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
@@ -81,9 +73,13 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikpratigya37-crypto&bg_color=ffffff&color=2196F3&line=2196F3&point=1976D2&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kaushikpratigya37-crypto&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikpratigya37-crypto&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" />
 
 ---
 
@@ -91,6 +87,10 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 ### 🌱 Always learning. Always building.
 
-**Thanks for visiting!**
+`C` • `Python` • `IoT` • `Arduino` • `ThingWorx` • `Git`
+
+<br>
+
+**Thanks for visiting! 💙**
 
 </div>
