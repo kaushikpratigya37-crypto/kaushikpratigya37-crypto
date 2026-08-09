@@ -1,16 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Pratigya Kaushik
+# 👋 Hi, I'm <span style="color:#B57EDC;">Pratigya Kaushik</span>
 
-### 💻 Developer • 🤖 IoT Explorer • ✍️ Writer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+with+Code+%26+Curiosity;Exploring+IoT+%26+Embedded+Systems;Learning+Data+%26+Technology;Turning+Ideas+into+Working+Projects" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kaushikpratigya37-crypto&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
-
-</div>
+### 💻 <span style="color:#7C9EE8;">Developer</span> • 🤖 <span style="color:#8CC9B5;">IoT Explorer</span> • ✍️ <span style="color:#F29BB2;">Writer</span>
 
 ---
 
@@ -22,12 +14,14 @@ Writing taught me **structure and clarity**. Development taught me **logic and p
 
 > *Structure in sentences. Logic in syntax. Circuits in between.*
 
-- 💻 Building with **C & Python**
-- 🤖 Exploring **IoT & Embedded Systems**
-- 🌡️ Working with **Sensors & ThingWorx**
-- 🧠 Practicing **DSA & Problem Solving**
-- ✍️ Interested in **Writing & Creative Ideas**
-- 🌱 Learning something new every day
+<p>
+<span>💻</span> Building with **C & Python**<br>
+<span>🤖</span> Exploring **IoT & Embedded Systems**<br>
+<span>🌡️</span> Working with **Sensors & ThingWorx**<br>
+<span>🧠</span> Practicing **DSA & Problem Solving**<br>
+<span>✍️</span> Interested in **Writing & Creative Ideas**<br>
+<span>🌱</span> Learning something new every day
+</p>
 
 ---
 
@@ -61,36 +55,22 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaushikpratigya37-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpratigya37-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaushikpratigya37-crypto&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikpratigya37-crypto&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" />
-
 ---
-
-<div align="center">
 
 ### 🌱 Always learning. Always building.
 
 `C` • `Python` • `IoT` • `Arduino` • `ThingWorx` • `Git`
 
+**Thanks for visiting! 💙**
+
 <br>
 
-**Thanks for visiting! 💙**
+<p>
+  <span>✦</span>
+  <span>♡</span>
+  <span>✧</span>
+  <span>☁️</span>
+  <span>✦</span>
+</p>
 
 </div>
