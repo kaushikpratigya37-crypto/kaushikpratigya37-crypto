@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=B57EDC&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Developer;%F0%9F%A4%96+IoT+Explorer;%E2%9C%8D%EF%B8%8F+Writer;%F0%9F%A7%A0+DSA+Learner;%F0%9F%8C%B1+Always+Learning+%26+Building" alt="Typing Animation">
+
+</div>
+
 # 👋 Hi, I'm Pratigya Kaushik
 
 ### 💻 Developer • 🤖 IoT Explorer • ✍️ Writer
@@ -12,12 +18,12 @@ Writing taught me **structure and clarity**. Development taught me **logic and p
 
 > *Structure in sentences. Logic in syntax. Circuits in between.*
 
-- 💻 Building with **C & Python**
-- 🤖 Exploring **IoT & Embedded Systems**
-- 🌡️ Working with **Sensors & ThingWorx**
-- 🧠 Practicing **DSA & Problem Solving**
-- ✍️ Interested in **Writing & Creative Ideas**
-- 🌱 Learning something new every day
+* 💻 Building with **C & Python**
+* 🤖 Exploring **IoT & Embedded Systems**
+* 🌡️ Working with **Sensors & ThingWorx**
+* 🧠 Practicing **DSA & Problem Solving**
+* ✍️ Interested in **Writing & Creative Ideas**
+* 🌱 Learning something new every day
 
 ---
 
