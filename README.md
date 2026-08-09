@@ -1,8 +1,26 @@
 <div align="center">
 
-# 👋 Hi, I'm Pratigya Kaushik
+<br>
 
-### 💻 Developer • 🤖 IoT Explorer • ✍️ Writer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=700&color=B57EDC&center=true&vCenter=true&width=650&lines=💻+Developer;🤖+IoT+Explorer;✍️+Writer;🧠+DSA+Learner;✨+Always+Learning%2C+Always+Building" />
+
+<br>
+
+<h1>👋 Hi, I'm Pratigya Kaushik</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/💻_Developer-B57EDC?style=for-the-badge&labelColor=171321">
+  <img src="https://img.shields.io/badge/🤖_IoT_Explorer-7C9EE8?style=for-the-badge&labelColor=121827">
+  <img src="https://img.shields.io/badge/✍️_Writer-F29BB2?style=for-the-badge&labelColor=24151B">
+</p>
+
+<p>
+  <font color="#B57EDC">✦</font>
+  <font color="#F29BB2">♡</font>
+  <font color="#7C9EE8">✧</font>
+  <font color="#8CC9B5">☁</font>
+  <font color="#F4B183">✦</font>
+</p>
 
 ---
 
