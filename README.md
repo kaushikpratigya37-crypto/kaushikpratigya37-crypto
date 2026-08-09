@@ -2,11 +2,15 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=700&color=B57EDC&center=true&vCenter=true&width=650&lines=💻+Developer;🤖+IoT+Explorer;✍️+Writer;🧠+DSA+Learner;✨+Always+Learning%2C+Always+Building" />
+<!-- ✨ Animated rotating text -->
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=B57EDC&center=true&vCenter=true&width=700&lines=💻+Developer;🤖+IoT+Explorer;✍️+Writer;🧠+DSA+%26+Problem+Solving;✨+Always+Learning+%26+Building" alt="Typing Animation" />
 
-<h1>👋 Hi, I'm Pratigya Kaushik</h1>
+<br><br>
+
+# 👋 Hi, I'm Pratigya Kaushik
+
+### 💻 Developer • 🤖 IoT Explorer • ✍️ Writer
 
 <p>
   <img src="https://img.shields.io/badge/💻_Developer-B57EDC?style=for-the-badge&labelColor=171321">
@@ -15,11 +19,11 @@
 </p>
 
 <p>
-  <font color="#B57EDC">✦</font>
-  <font color="#F29BB2">♡</font>
-  <font color="#7C9EE8">✧</font>
-  <font color="#8CC9B5">☁</font>
-  <font color="#F4B183">✦</font>
+  <img src="https://img.shields.io/badge/✦-B57EDC?style=flat-square&labelColor=171321">
+  <img src="https://img.shields.io/badge/♡-F29BB2?style=flat-square&labelColor=24151B">
+  <img src="https://img.shields.io/badge/✧-7C9EE8?style=flat-square&labelColor=121827">
+  <img src="https://img.shields.io/badge/☁-8CC9B5?style=flat-square&labelColor=12201B">
+  <img src="https://img.shields.io/badge/✦-F4B183?style=flat-square&labelColor=241B14">
 </p>
 
 ---
