@@ -83,7 +83,4 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 </div>
 
----
-```
-
 
