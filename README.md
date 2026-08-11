@@ -65,11 +65,30 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 ---
 
-### 🌱 Always learning. Always building.
+```markdown
+---
+
+<div align="center">
+
+### 🦢 𝑨𝒍𝒘𝒂𝒚𝒔 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 • 𝑨𝒍𝒘𝒂𝒚𝒔 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 🕊️
+
+`C` • `Python` • `IoT` • `Arduino` • `ThingWorx` • `DSA` • `Git`
+
+<br>
+
+🌱 𝑳𝒆𝒂𝒓𝒏 • 𝑩𝒖𝒊𝒍𝒅 • 𝑪𝒓𝒆𝒂𝒕𝒆 • 𝑮𝒓𝒐𝒘 🦢
+
+*Turning little ideas into something real.* ☁️
+
+<br>
+
+🕊️ **Thanks for visiting!** 🧸  
+*Stay curious, keep creating.* 🤍
+
+`🦢` `🕊️` `🪽` `☁️` `🧸` `🌱` `🤍`
+
+</div>
+
+---
 ```
 
-
-
-"C" • "Python" • "IoT" • "Arduino" • "ThingWorx" • "Git"
-
-**Thanks for visiting! 🐧🕊️🦢🧸💙**
