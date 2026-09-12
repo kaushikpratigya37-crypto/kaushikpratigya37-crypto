@@ -59,8 +59,6 @@ An Arduino-based RFID project using the MFRC522 reader to detect cards and read 
 
 <div align="center">
 
-[![Pratigya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushikpratigya37-crypto&bg_color=0d1117&color=B57EDC&line=B57EDC&point=ffffff&area=true&hide_border=true)](https://github.com/kaushikpratigya37-crypto)
-
 </div>
 
 <div align="center">
